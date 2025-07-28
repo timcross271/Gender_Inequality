@@ -6,20 +6,23 @@ for gender equality.
 
 This project was submitted as a final assignment for a Bootcamp in Ai and Machine Learning (Level 5) at Gateshead College, May to July 2025.
 
-### Files 
-gender_data_cleaning.ipynb - Data cleaning
+### Reports
 
-gender_eda.ipynb - Exploratory data analysis
+`Gender_Inequality___Project_Plan.pdf`: Initial project plan
 
-gender_ml.ipynb - Machine learning modelling
+`Gender_Inequality___Final_Report.pdf`: Final project report
 
-Data.zip - Data files
+### Scripts
+`gender_data_cleaning.ipynb`: Data cleaning
 
-Plots.zip - Related plots
+`gender_eda.ipynb`: Exploratory data analysis
+
+`gender_ml.ipynb`: Machine learning modelling
+
+`Data.zip`: Data files
+
+`Plots.zip`: Related plots
 
 
-Gender_Inequality___Project_Plan.pdf - Initial project plan
-
-Gender_Inequality___Final_Report.pdf - Final project report
 
 
