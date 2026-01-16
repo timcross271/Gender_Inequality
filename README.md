@@ -1,4 +1,4 @@
-# Gender_Inequality
+# Gender Inequality Project
 In this project I analyse World Bank data on Gender statistics to predict and
 model the level of gender equality for 82 countries using machine learning models. I chose the
 target variable ‘Female share of employment in senior and middle management (%)’ as an indicator
